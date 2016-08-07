@@ -1,0 +1,45 @@
+{
+    "room": "Any EDM: Trap, House, etc!",
+    "author": "QTπ",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#42A5DC",
+        "ambassador": "#84B423",
+        "host": "#FF69B4",
+        "cohost": "##FF69B4",
+        "manager": "#42A5DC",
+        "bouncer": "#84B423",
+        "rdj": "#C42E3B",
+        "subscriber": "#C59840",
+        "silversubscriber": "#C59840",
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/16.png",
+        "playback": null,
+        "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host": "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
+        "cohost": "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+        "manager": "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+        "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
+        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+    },
+    "emotes": {
+    	"emote_name": null
+      }
+    }
