@@ -1,4 +1,4 @@
-{
+﻿{
     "room": "Any EDM: Trap, House, etc!",
     "author": "QTπ",
     "icon": null,
@@ -6,7 +6,7 @@
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
-        "allowAutojoin": false,
+        "allowAutojoin": true,
         "allowAutograb": true,
         "allowSmartVote": true,
         "allowEmotes": true,
